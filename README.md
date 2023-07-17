@@ -15,6 +15,7 @@ To run the calculator, you need a modern web browser that supports HTML5 and Jav
 
 ## Demo
 
+[Glassmorphism Calculator Demo](https://github.com/sanjeevani-25/glassmorph-calculator/assets/96921605/66ebfb39-e275-4694-8096-65474029d562)
 
 
 ## Usage
